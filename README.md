@@ -1,2 +1,2 @@
 # playground
-Code for fun &amp; experiments
+Code for fun & experiments
